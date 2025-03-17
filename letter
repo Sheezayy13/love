@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Love Letter to My Husband</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            background-color: #73b8f1;
+            color: #4a4a4a;
+            margin: 20px;
+            padding: 20px;
+            border: 2px solid #e25f23;
+            border-radius: 15px;
+            max-width: 600px;
+            line-height: 1.8;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #062c4b;
+            text-align: center;
+        }
+        h2 {
+            color: #ce1f1f;
+            text-align: center;
+            font-style: italic;
+        }
+        p {
+            margin: 15px 0;
+            text-align: justify;
+        }
+        .signature {
+            margin-top: 40px;
+            font-style: italic;
+            text-align: right;
+        }
+        .heart {
+            color: #dd3b29;
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body><i>
+
+    <h1>To My Beloved Chuaa</h1>
+    <h2>My Heart's Companion</h2>
+
+    <p>
+       Hiiieeeeeee Babyyyy ...... 
+    </p>
+
+    <p>
+        I lOVE YOU SOOOOO MUCHHH ...You are man i can rely on after ALLAH and my Father..You are my reason to live in this world like hell ..you make it worth living .. 
+    <p>
+    
+    <p>
+        Youre my sunshine ..my only sunshine ..you make me happy when skies are grey ...you never know dear how much i love you ...
+        please dont take my sunshine awayy ...
+    </p>
+
+    <p class="heart">❤️</p>
+
+    <p class="signature">
+        With all my love,<br>
+        your chuiyaa
+    </p>
+
+</body><i></i>
+</html>
